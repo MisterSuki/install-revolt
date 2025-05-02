@@ -1,3 +1,3 @@
-curl -O https://raw.githubusercontent.com/install-revolt/install_revolt/main/install_revolt.sh
+curl -O https://raw.githubusercontent.com/MisterSuki/install-revolt/refs/heads/main/install_revolt.sh
 chmod +x install_revolt.sh
 ./install_revolt.sh
